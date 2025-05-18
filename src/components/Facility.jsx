@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from './commonLayouts/Container'
 import HeadphoneIcon from '../icons/HeadphoneIcon'
-import SecurityIcon from '../icons/securityIcon'
+import SecurityIcon from '../icons/SecurityIcon'
 import ShippingIcon from '../icons/ShippingIcon'
 import TransparentIcon from '../icons/TransparentIcon'
 
